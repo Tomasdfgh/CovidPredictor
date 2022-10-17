@@ -10,4 +10,5 @@ This project uses urllib.request, a web scraping library from python. User can e
 Example for Vietnam and Japan
 
 ![image](https://user-images.githubusercontent.com/86145397/196069369-f1e36765-000e-4267-adb9-108e36aabd2e.png)
+
 If a country is not found, this is the result.
